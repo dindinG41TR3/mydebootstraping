@@ -20,4 +20,5 @@ Made with <span style="color: #e25555;">&#9829;</span> in Indonesia ![flag](http
 <ol>
   <li><a href="https://help.ubuntu.com/community/LiveCDCustomizationFromScratch" alt="wiki ubuntu"> Live CD Customization From Scratch</a> Ubuntu Wiki</li>
    <li><a href="http://willhaley.com/blog/create-a-custom-debian-stretch-live-environment-ubuntu-17-zesty/" alt="Will Haley"> Create a Custom Debian Live Environment (CD or USB) </li>
+     <li><a href="https://debian-live-config.readthedocs.io/en/latest/index.html">Packages Recommends</li>
   </ol>
